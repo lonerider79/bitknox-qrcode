@@ -3,7 +3,7 @@
  * Plugin Name: Pagelink QR Code
  * Plugin URI: https://mybio.philaquarters.com/
  * Description: Generates QR code for the link to the current page
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Vinu Felix
  * Author URI: http://mybio.philaquarters.com
  * Requires at least: 4.0
